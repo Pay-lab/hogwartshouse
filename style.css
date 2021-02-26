@@ -142,7 +142,7 @@ body {
     line-height: 1.68;
     text-align: left;
     color: #35465d;
-    font-size: 2.8rem;
+    font-size: 2rem;
 }
 
 .navbar-light .navbar-toggler {
@@ -158,7 +158,7 @@ body {
     line-height: 1.67;
     text-align: center;
     color: #35465d;
-    font-size: 3rem;
+    font-size: 2.7rem;
 }
 
 .subtitle {
@@ -166,7 +166,7 @@ body {
     line-height: 1.53;
     text-align: center;
     color: #35465d;
-    font-size: 2.5rem;
+    font-size: 2.3rem;
 }
 
 /* On screens that are 600px or less, set the background color to olive */
@@ -192,6 +192,8 @@ body {
 .Gryffindor-house-title {
     color: #8B0000;
     font-size: 3rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .Gryffindor-house-student {
@@ -203,6 +205,8 @@ body {
 .Hufflepuff-house-title {
     color: #FFD700;
     font-size: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .Hufflepuff-house-student {
@@ -213,6 +217,8 @@ body {
 .Slytherin-house-title {
     color: #008000;
     font-size: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .Slytherin-house-student {
@@ -223,6 +229,8 @@ body {
 .Ravenclaw-house-title {
     color: #0000CD;
     font-size: 5rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
 }
 
 .Ravenclaw-house-student {
@@ -232,11 +240,11 @@ body {
 
 * {
     font-family: 'Yeon Sung', cursive;
-    font-size: 1rem;
+    font-size: 1.8rem;
 }
 
 .nav-link {
-    font-size: 2.5rem;
+    font-size: 1.6rem;
 }
 
 .try-again-btn {
