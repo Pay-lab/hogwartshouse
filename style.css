@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: 'East Sea Dokdo', cursive;
   background-color: #ffffff;
 }
 
@@ -45,8 +45,8 @@ body {
 .file-upload-content {
   display: none;
   text-align: center;
-    font-size: 2rem;
-    line-height: 60px;
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 
 .file-upload-input {
@@ -91,7 +91,7 @@ body {
   text-transform: uppercase;
   color: #15824B;
   padding: 13% 0;
-  font-family: NanumSqureR;
+  font-family: 'Yeon Sung', cursive;;
   font-size: 1.3rem;
   line-height: 1.53;
   text-align: center;
@@ -138,11 +138,11 @@ body {
 }
 
 .navbar-light .navbar-brand {
-    font-family: 'East Sea Dokdo';
+    font-family: 'Yeon Sung', cursive;
     line-height: 1.68;
     text-align: left;
     color: #35465d;
-    font-size: 4rem;
+    font-size: 2.8rem;
 }
 
 .navbar-light .navbar-toggler {
@@ -154,19 +154,19 @@ body {
 }
 
 .title {
-    font-family: 'East Sea Dokdo';
+    font-family: 'Yeon Sung', cursive;
     line-height: 1.67;
     text-align: center;
     color: #35465d;
-    font-size: 4.5rem;
+    font-size: 3rem;
 }
 
 .subtitle {
-    font-family: 'East Sea Dokdo';
+    font-family: 'Yeon Sung', cursive;
     line-height: 1.53;
     text-align: center;
     color: #35465d;
-    font-size: 3.5rem;
+    font-size: 2.5rem;
 }
 
 /* On screens that are 600px or less, set the background color to olive */
@@ -184,17 +184,20 @@ body {
 }
 
 .house-explain {
-    font-size: 3rem;
+    font-size: 2rem;
+    line-height: 3rem;
+    margin-bottom: 1.5rem;
 }
 
 .Gryffindor-house-title {
     color: #8B0000;
-    font-size: 5rem;
+    font-size: 3rem;
 }
 
 .Gryffindor-house-student {
     color: #8B0000;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
+    line-height: 2rem;
 }
 
 .Hufflepuff-house-title {
@@ -228,7 +231,8 @@ body {
 }
 
 * {
-    font-family: 'East Sea Dokdo', cursive;
+    font-family: 'Yeon Sung', cursive;
+    font-size: 1rem;
 }
 
 .nav-link {
@@ -238,7 +242,7 @@ body {
 .try-again-btn {
     border-radius: 10px;
     font-size: 2rem;
-    padding: 2% 5%;
+    padding: 0 5%;
     background-color: #35465d;
 }
 
