@@ -165,7 +165,7 @@ body {
     font-family: 'Yeon Sung', cursive;
     line-height: 1.53;
     text-align: center;
-    color: #d8d8d8;
+    color: #ffffff;
     font-size: 2.3rem;
 }
 
@@ -211,7 +211,8 @@ body {
 
 .Hufflepuff-house-student {
     color: #FFD700;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
+    line-height: 2rem;
 }
 
 .Slytherin-house-title {
@@ -223,7 +224,8 @@ body {
 
 .Slytherin-house-student {
     color: #008000;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
+    line-height: 2rem;
 }
 
 .Ravenclaw-house-title {
@@ -235,7 +237,8 @@ body {
 
 .Ravenclaw-house-student {
     color: #0000CD;
-    font-size: 2.5rem;
+    font-size: 1.7rem;
+    line-height: 2rem;
 }
 
 * {
@@ -261,9 +264,20 @@ body {
 .ad-banner {
     width: 320px;
     margin: 0 auto;
+    margin-top: 5rem;
 }
 
 .ad-banner-second {
     width: 250px;
     margin: 0 auto;
+}
+
+.caution {
+    color: #d8d8d8;
+    font-size: 1.2rem;
+    line-height: 1.3;
+    text-align: center;
+    margin-bottom: 3rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
 }
