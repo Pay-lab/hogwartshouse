@@ -245,3 +245,13 @@ body {
 .try-again-text {
     color: #ffffff;
 }
+
+.ad-banner {
+    width: 320px;
+    margin: 0 auto;
+}
+
+.ad-banner-second {
+    width: 250px;
+    margin: 0 auto;
+}
